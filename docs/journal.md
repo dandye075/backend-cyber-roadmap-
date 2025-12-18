@@ -8,5 +8,4 @@ Materi dipelajari:
 - Infinite loop → kenapa bisa terjadi dan cara menghentikan (+= 1, break, atau Ctrl+C)
 
 Durasi: sekitar 1 jam lebih
-
 Progress: ✅ selesai tahap syntax dasar di roadmap
