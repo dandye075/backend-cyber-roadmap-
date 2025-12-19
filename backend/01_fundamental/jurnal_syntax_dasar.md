@@ -32,4 +32,7 @@
 - Latihan: `angka[2]`, `buah[-1]`, `angka[1:4]`, `len(hari)`, `sum(angka)`, `max(nilai)`.  
 - Semua hasil benar, konsep immutable dipahami (error saat assignment).  
 
-📌 Catatan: Milestone **List** dan **Tuple** selesai. Besok bisa lanjut ke **Set**.
+## ⏳ Belum Dipelajari (lanjut besok)
+- Struktur data (Set)
+- OOP (Object-Oriented Programming)
+- Modul & Package
