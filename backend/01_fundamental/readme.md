@@ -15,9 +15,10 @@ Target: Menyelesaikan 4 topik utama Python sebelum lanjut ke tahap berikutnya.
 - Materi: input/output, tipe data, operator, if/else, loop
 - Catatan: Infinite loop → kenapa bisa terjadi dan cara menghentikan  
   - `+= 1` dan `break` → menghentikan lewat program  
-  - `Ctrl+C` → menghentikan manual saat loop sudah berjalan  
-
-**Tanggal:** 19 Desember 2025  
+  - `Ctrl+C` → menghentikan manual saat loop sudah berjalan
+  -   
+## 📓 Progress Jurnal
+### 19 Desember 2025  
 
 ### List
 - ✅ Sudah selesai: akses index, slicing (start, stop, step, index negatif), reverse dengan `[::-1]`.  
