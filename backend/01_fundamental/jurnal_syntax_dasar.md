@@ -19,3 +19,22 @@
 - Struktur data (List, Tuple, Dictionary, Set)
 - OOP (Object-Oriented Programming)
 - Modul & Package
+
+✅ 19 Desember 2025
+List
+
+Sudah dikuasai: akses index, slicing (start, stop, step, index negatif), reverse dengan [::-1].
+
+Latihan: angka[2:], angka[1:6], angka[::2], angka[::-1].
+
+Semua hasil benar, pola slicing sudah mantap.
+
+Tuple
+
+Sudah dikuasai: definisi (immutable), cara membuat, akses index positif & negatif, slicing, fungsi bawaan (len(), sum(), min(), max()).
+
+Latihan: angka[2], buah[-1], angka[1:4], len(hari), sum(angka), max(nilai).
+
+Semua hasil benar, konsep immutable dipahami (error saat assignment).
+
+📌 Catatan: Milestone List dan Tuple selesai. Besok bisa lanjut ke Set.
