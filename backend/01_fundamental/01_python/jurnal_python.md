@@ -33,6 +33,6 @@
 - Semua hasil benar, konsep immutable dipahami (error saat assignment).  
 
 ## ⏳ Belum Dipelajari (lanjut besok)
-- Struktur data (Set)
+- Struktur data (dictionary, Set)
 - OOP (Object-Oriented Programming)
 - Modul & Package
